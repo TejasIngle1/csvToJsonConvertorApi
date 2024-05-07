@@ -1,0 +1,13 @@
+{
+    "db": {
+        "host": "vernostdevuat.cz7vnhsdptrh.us-east-1.rds.amazonaws.com",
+        "user": "Axisdb_user",
+        "password": "NH47jjn123",
+        "database": "Axis_db",
+        "connectionLimit": "1000",
+        "connectionTimeout": 1000,
+        "acquireTimeout": "1 60 1000",
+        "timeout": "3 60 1000",
+        "port":"3306"
+    }
+}

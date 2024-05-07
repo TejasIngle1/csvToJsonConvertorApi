@@ -1,0 +1,7 @@
+{
+    "CTJE1000": {
+        "errorCode": "CTJE1000",
+        "errorDetailDev": "Something went wrong in csvToJsonConverter controller.",
+        "errorUserMessage": "An unknown error has occurred. Please try again after some time."
+    }
+}
